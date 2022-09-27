@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiselstorm
 - 👀 I’m interested in ...Python 
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python,German
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...timi.nidorfer@gmail.com
 
