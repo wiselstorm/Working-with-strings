@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wiselstorm
-- 👀 I’m interested in ...Python 
-- 🌱 I’m currently learning ... Python,German
+- 👀 I’m interested in ...C
+- 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...timi.nidorfer@gmail.com
+- 📫 How to reach me ...timotej.nidorfer@gmail.com
 
 <!---
 wiselstorm/wiselstorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
